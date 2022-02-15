@@ -1,0 +1,4 @@
+name: py3.7
+channels:
+  - defaults
+prefix: /Users/admin/opt/anaconda3/envs/py3.7
